@@ -1,21 +1,4 @@
-{
-  "State Unassigned": {
-    "districtData": {
-      "Unassigned": {
-        "notes": "",
-        "active": 4673,
-        "confirmed": 4673,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 341,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    },
-    "statecode": "UN"
-  },
+
   "Andaman and Nicobar Islands": {
     "districtData": {
       "Nicobars": {
