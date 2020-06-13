@@ -123,9 +123,9 @@ background-color: #FF6600
   font-size: 11px;
   text-align: right;
   animation-Delay:1.5s;
-  background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%);
+  background:-webkit-gradient(linear, left top, right top, from(#92deff), color-stop(#b3ff9a), to(#ff95f5));
+  background:linear-gradient(to right, #92deff, #b3ff9a, #ff95f5);-webkit-box-shadow:0 7px 14px rgba(0,0,0,0.1);box-shadow:0 7px 14px rgba(0,0,0,0.1);
 }
-
 
 .circular--mani {
 
