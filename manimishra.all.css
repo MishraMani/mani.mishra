@@ -122,8 +122,8 @@ background-color: #FF6600
   font-family:'Noto Serif', serif;
   font-size: 11px;
   text-align: right;
-  background: #ddd;
-  opacity: .4;
+  background: #000;
+  color:#fff;
   animation-Delay:1.5s;
   
 }
