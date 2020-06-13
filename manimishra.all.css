@@ -123,8 +123,7 @@ background-color: #FF6600
   font-size: 11px;
   text-align: right;
   animation-Delay:1.5s;
-
-  background:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%);
 }
 
 
